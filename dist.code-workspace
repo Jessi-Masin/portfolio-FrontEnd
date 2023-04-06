@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../dist"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"techer.open-in-browser"
+		]
+	}
+}
